@@ -4,3 +4,5 @@ markdown: kramdown
 
 title: Wei Yao @ Software Engineering
 description: This is site introduce myself and keep record for my software engineering study. 
+
+theme: jekyll-theme-cayman
